@@ -1,5 +1,7 @@
 # Biological Sciences Directorate DMP Guidelines 
 
+After reviewing this document, check out our [Biological Sciences Directorate Template](NSF-BIO-Template.md). 
+
 ## Requirements
 - Supplementary document labeled "Data Management Plan" 
 - DMP to be no more than 2 pages
