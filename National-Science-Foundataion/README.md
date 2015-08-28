@@ -28,7 +28,7 @@ The MPS directorate has division specific DMP guidelines. The divisions and temp
 
 #### Astronomical Sciences Division
 
--[Astronomical Sciences Division Template](Mathematical-and-Physical-Sciences-Directorate/Astronomical-Sciences-Division)
+- [Astronomical Sciences Division Template](Mathematical-and-Physical-Sciences-Directorate/Astronomical-Sciences-Division)
 -
 
 #### Division of Chemistry
