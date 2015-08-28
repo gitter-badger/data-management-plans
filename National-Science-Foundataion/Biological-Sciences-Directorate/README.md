@@ -1,4 +1,4 @@
-# Biological Sciences Directorate DMP Guidelines 
+# Biological Sciences Directorate DMP Overview 
 
 After reviewing this document, check out our [Biological Sciences Directorate Template](NSF-BIO-Template.md). 
 
