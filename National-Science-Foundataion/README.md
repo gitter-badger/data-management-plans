@@ -24,11 +24,27 @@ The NSF has required data management plans (DMPs) since 2011. Each DMP should be
 
 ### Mathematical and Physical Sciences Directorate (MPS)
 
-#### Division of Astronomical Sciences
+The MPS directorate has division specific DMP guidelines. The divisions and templates are listed below. 
+
+#### Astronomical Sciences Division
+-[Astronomical Sciences Division Template](Mathematical-and-Physical-Sciences-Directorate/Astronomical-Sciences-Division)
+-
+
 #### Division of Chemistry
+-
+-
+
 #### Division of Materials Research
+-
+-
+
 #### Division of Mathematical Sciences
+-
+-
+
 #### Division of Physics 
+-
+-
 
 ### Social, Behaviorial, and Economic Sciences Directorate (SBE) 
 - [Social, Behaviorial, and Economic Sciences Directorate Template](Social-Behavioral-and-Economic-Sciences-Directorate/README.md)
