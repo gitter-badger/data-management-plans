@@ -5,23 +5,23 @@ The NSF has required data management plans (DMPs) since 2011. Each DMP should be
 ### Biological Sciences Directorate (BIO) 
 - [Biological Sciences Directorate DMP Overview ](Biological-Sciences-Directorate/README.md)
 - [Biological Sciences Directorate Template ](Biological-Sciences-Directorate/NSF-BIO-Template.md)
-- [BIO Directorate-wide Official Guidance ](http://www.nsf.gov/bio/pubs/BIODMP061511.pdf)
+- [Official BIO Directorate-wide Guidance ](http://www.nsf.gov/bio/pubs/BIODMP061511.pdf)
 
 ### Computer and Information Sciences and Egineering Directorate (CISE)
 - [Computer and Information Sciences and Egineering Directorate Overview](Computer-and-Information-Science-and-Engineering-Directorate/README.md)
-- [CISE Directorate-wide Guidance](http://www.nsf.gov/cise/cise_dmp.jsp)
+- [Official CISE Directorate-wide Guidance](http://www.nsf.gov/cise/cise_dmp.jsp)
 
 ### Education and Human Resources Directorate (EHR) 
 - [Education and Human Resources Directorate Overview ](Education-and-Human-Resources-Directorate/README.md)
-- [EHR Directorate-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/ehr.pdf)
+- [Official EHR Directorate-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/ehr.pdf)
 
 ### Engineering Directorate (ENG)
 - [Engineering Directorate Overview](Engineering-Directorate/README.md)
-- [ENG Directorate-wide Guidance](http://nsf.gov/eng/general/ENG_DMP_Policy.pdf)
+- [Official ENG Directorate-wide Guidance](http://nsf.gov/eng/general/ENG_DMP_Policy.pdf)
 
 ### Geosciences Directorate (GEO)
 - [Geosciences Directorate Overview](Geosciences-Directorate/README.md)
-- [GEO Directorate-wide Guidance](http://www.nsf.gov/geo/geo-data-policies/index.jsp)
+- [Official GEO Directorate-wide Guidance](http://www.nsf.gov/geo/geo-data-policies/index.jsp)
 
 ### Mathematical and Physical Sciences Directorate (MPS)
 
@@ -29,27 +29,27 @@ The MPS directorate has division specific DMP guidelines. The divisions and temp
 
 #### Astronomical Sciences Division
 - [Astronomical Sciences Division Overview](Mathematical-and-Physical-Sciences-Directorate/Astronomical-Sciences-Division/README.md)
-- [Astronomical Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/ast.pdf)
+- [Official Astronomical Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/ast.pdf)
 
 #### Chemistry Division
 - [Chemistry Division Overview](Mathematical-and-Physical-Sciences-Directorate/Chemistry-Division/README.md)
-- [Chemistry Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/che.pdf)
+- [Official Chemistry Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/che.pdf)
 
 #### Materials Research Division
 - [Materials Research Division Overview](Mathematical-and-Physical-Sciences-Directorate/Materials-Research-Division/README.md)
-- [Materials Research Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dmr.pdf)
+- [Official Materials Research Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dmr.pdf)
 
 #### Division of Mathematical Sciences
 - [Mathematical Sciences Division Overview](Mathematical-and-Physical-Sciences-Directorate/Mathematical-Sciences-Division/README.md)
-- [Mathematical Sciences Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dms.pdf)
+- [Official Mathematical Sciences Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dms.pdf)
 
 #### Division of Physics 
 - [Physics Division Overview](Mathematical-and-Physical-Sciences-Directorate/Physics-Division/README.md)
-- [Physics Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/phy.pdf)
+- [Official Physics Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/phy.pdf)
 
 ### Social, Behaviorial, and Economic Sciences Directorate (SBE) 
 - [Social, Behaviorial, and Economic Sciences Directorate Overview](Social-Behavioral-and-Economic-Sciences-Directorate/README.md)
-- [Directorate-wide Guidance](http://www.nsf.gov/sbe/SBE_DataMgmtPlanPolicy.pdf)
+- [Official SBE Directorate-wide Guidance](http://www.nsf.gov/sbe/SBE_DataMgmtPlanPolicy.pdf)
 
 #### Additional Resources 
 - [NSF Data Management Policy](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
