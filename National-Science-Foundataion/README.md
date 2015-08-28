@@ -26,10 +26,10 @@ The NSF has required data management plans (DMPs) since 2011. Each DMP should be
 
 The MPS directorate has division specific DMP guidelines. The divisions and templates are listed below. 
 
-#### Astronomical Sciences Divisiond
+#### Astronomical Sciences Division
 
-- [Astronomical Sciences Division Template](Mathematical-and-Physical-Sciences-Directorate/Astronomical-Sciences-Division/README.md)
--
+Basic info here
+- [Astrnomical Sciences Division](Mathematical-and-Physical-Sciences-Directorate/Astronomical-Sciences-Division/README.md)
 
 
 #### Division of Chemistry
