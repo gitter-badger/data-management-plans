@@ -4,52 +4,47 @@ The NSF has required data management plans (DMPs) since 2011. Each DMP should be
 
 ### Biological Sciences Directorate (BIO) 
 - [Biological Sciences Directorate Template](Biological-Sciences-Directorate/README.md)
-- [Directorate-wide Guidance](http://www.nsf.gov/bio/pubs/BIODMP061511.pdf)
+- [BIO Directorate-wide Guidance](http://www.nsf.gov/bio/pubs/BIODMP061511.pdf)
 
 ### Computer and Information Sciences and Egineering Directorate (CISE)
 - [Computer and Information Sciences and Egineering Directorate Template](Computer-and-Information-Science-and-Engineering-Directorate/README.md)
-- [Directorate-wide Guidance](http://www.nsf.gov/cise/cise_dmp.jsp)
+- [CISE Directorate-wide Guidance](http://www.nsf.gov/cise/cise_dmp.jsp)
 
 ### Education and Human Resources Directorate (EHR) 
 - [Education and Human Resources Directorate](Education-and-Human-Resources-Directorate/README.md)
-- [Directorate-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/ehr.pdf)
+- [EHR Directorate-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/ehr.pdf)
 
 ### Engineering Directorate (ENG)
 - [Engineering Directorate Template](Engineering-Directorate/README.md)
-- [Directorate-wide Guidance](http://nsf.gov/eng/general/ENG_DMP_Policy.pdf)
+- [ENG Directorate-wide Guidance](http://nsf.gov/eng/general/ENG_DMP_Policy.pdf)
 
 ### Geosciences Directorate (GEO)
 - [Geosciences Directorate Template](Geosciences-Directorate/README.md)
-- [Directorate-wide Guidance](http://www.nsf.gov/geo/geo-data-policies/index.jsp)
+- [GEO Directorate-wide Guidance](http://www.nsf.gov/geo/geo-data-policies/index.jsp)
 
 ### Mathematical and Physical Sciences Directorate (MPS)
 
 The MPS directorate has division specific DMP guidelines. The divisions and templates are listed below. 
 
 #### Astronomical Sciences Division
-- [Astrnomical Sciences Division Template](Mathematical-and-Physical-Sciences-Directorate/Astronomical-Sciences-Division/README.md)
-- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/ast.pdf)
+- [Astronomical Sciences Division Template](Mathematical-and-Physical-Sciences-Directorate/Astronomical-Sciences-Division/README.md)
+- [Astronomical Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/ast.pdf)
 
+#### Chemistry Division
+- [Chemistry Division Template](Mathematical-and-Physical-Sciences-Directorate/Chemistry-Division/README.md)
+- [Chemistry Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/che.pdf)
 
-#### Division of Chemistry
-
--
-- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/che.pdf)
-
-#### Division of Materials Research
-
--
-- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dmr.pdf)
+#### Materials Research Division
+- [Materials Research Division Template](Mathematical-and-Physical-Sciences-Directorate/Materials-Research-Division/README.md)
+- [Materials Research Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dmr.pdf)
 
 #### Division of Mathematical Sciences
-
--
-- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dms.pdf)
+- [Mathematical Sciences Division Template](Mathematical-and-Physical-Sciences-Directorate/Mathematical-Sciences-Division/README.md)
+- [Mathematical Sciences Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dms.pdf)
 
 #### Division of Physics 
-
--
-- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/phy.pdf)
+- [Physics Division Template](Mathematical-and-Physical-Sciences-Directorate/Physics-Division/README.md)
+- [Physics Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/phy.pdf)
 
 ### Social, Behaviorial, and Economic Sciences Directorate (SBE) 
 - [Social, Behaviorial, and Economic Sciences Directorate Template](Social-Behavioral-and-Economic-Sciences-Directorate/README.md)
