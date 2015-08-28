@@ -34,22 +34,22 @@ The MPS directorate has division specific DMP guidelines. The divisions and temp
 #### Division of Chemistry
 
 -
--
+- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/che.pdf)
 
 #### Division of Materials Research
 
 -
--
+- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dmr.pdf)
 
 #### Division of Mathematical Sciences
 
 -
--
+- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/dms.pdf)
 
 #### Division of Physics 
 
 -
--
+- [Division-wide Guidance](http://www.nsf.gov/bfa/dias/policy/dmpdocs/phy.pdf)
 
 ### Social, Behaviorial, and Economic Sciences Directorate (SBE) 
 - [Social, Behaviorial, and Economic Sciences Directorate Template](Social-Behavioral-and-Economic-Sciences-Directorate/README.md)
