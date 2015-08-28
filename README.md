@@ -4,4 +4,4 @@ This repository is an experiement to host our data management plans on Github as
 
 ## National Science Foundation 
 
-We are currently building templates, overviews, and documentation for [NSF DMPs](National-Science-Foundation/README.md). Feel free to take a look and offer suggestions. 
+We are currently building templates, overviews, and documentation for [NSF DMPs](National-Science-Foundation/). Feel free to take a look and offer suggestions. 
