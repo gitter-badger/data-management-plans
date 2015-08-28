@@ -56,5 +56,5 @@ The MPS directorate has division specific DMP guidelines. The divisions and temp
 - [Directorate-wide Guidance](http://www.nsf.gov/sbe/SBE_DataMgmtPlanPolicy.pdf)
 
 #### Additional Resources 
--[NSF Data Management Policy](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
--[NSF Policies](http://www.nsf.gov/bfa/dias/policy/)
+- [NSF Data Management Policy](http://www.nsf.gov/bfa/dias/policy/dmp.jsp)
+- [NSF Policies](http://www.nsf.gov/bfa/dias/policy/)
