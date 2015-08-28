@@ -48,5 +48,5 @@ Final reports should describe the implementation of the DMP and any changes from
 
 Data management must be reported in subsequent proposals by PIs and Co-PIs under "Results of prior NSF support."
 
-Additional Resources 
+## Additional Resources 
 - [BIO Directorate-wide Guidance](http://www.nsf.gov/bio/pubs/BIODMP061511.pdf)
