@@ -4,11 +4,12 @@ The NSF has required data management plans (DMPs) since 2011. Each DMP should be
 
 ### Biological Sciences Directorate (BIO) 
 - [Biological Sciences Directorate DMP Overview ](Biological-Sciences-Directorate/README.md)
-- [Biological Sciences Directorate Template ](Biological-Sciences-Directorate/NSF-BIO-Template.md)
+- [Biological Sciences Directorate DMP Template ](Biological-Sciences-Directorate/NSF-BIO-Template.md)
 - [Official BIO Directorate-wide Guidance ](http://www.nsf.gov/bio/pubs/BIODMP061511.pdf)
 
 ### Computer and Information Sciences and Egineering Directorate (CISE)
-- [Computer and Information Sciences and Egineering Directorate Overview](Computer-and-Information-Science-and-Engineering-Directorate/README.md)
+- [Computer and Information Sciences and Egineering Directorate DMP Overview](Computer-and-Information-Science-and-Engineering-Directorate/README.md)
+- [Computer and Information Sciences and Egineering Directorate DMP Template](Computer-and-Information-Science-and-Engineering-Directorate/NSF-CISE-Template.md)
 - [Official CISE Directorate-wide Guidance](http://www.nsf.gov/cise/cise_dmp.jsp)
 
 ### Education and Human Resources Directorate (EHR) 
