@@ -35,3 +35,5 @@ After reviewing this document, check out our [CISE DMP Template](NSF-CISE-Templa
 
 7. The roles and responsibilities of all parties with respect to the management of the data (including contingency plans for the departure of key personnel from the project) after the grant ends.
 
+## Additional Resources 
+- [CISE Directorate-wide guidance](http://www.nsf.gov/cise/cise_dmp.jsp)
